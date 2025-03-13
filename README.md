@@ -1,11 +1,20 @@
-# CI/CD Pipeline for Docker Image Build and Deployment to Azure Kubernetes Service (AKS)
+# Introduction 
+TODO: Give a short introduction of your project. Let this section explain the objectives or the motivation behind this project. 
 
+# Getting Started
+TODO: Guide users through getting your code up and running on their own system. In this section you can talk about:
+1.	Installation process
+2.	Software dependencies
+3.	Latest releases
+4.	API references
 
-## Installing Docker:
-Ensures that the pipeline has the necessary tools to build Docker images.
+# Build and Test
+TODO: Describe and show how to build your code and run the tests. 
 
-## Building and pushing the Docker image:
-Ensures that application’s containerized version is created and securely stored in a cloud registry (ACR), where it can be accessed later.
+# Contribute
+TODO: Explain how other users and developers can contribute to make your code better. 
 
-## Deploying to AKS:
-Ensures that the built Docker image is deployed to a production-ready environment (AKS), enabling application to run in the cloud on a highly scalable, managed Kubernetes service.
+If you want to learn more about creating good readme files then refer the following [guidelines](https://docs.microsoft.com/en-us/azure/devops/repos/git/create-a-readme?view=azure-devops). You can also seek inspiration from the below readme files:
+- [ASP.NET Core](https://github.com/aspnet/Home)
+- [Visual Studio Code](https://github.com/Microsoft/vscode)
+- [Chakra Core](https://github.com/Microsoft/ChakraCore)
